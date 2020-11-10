@@ -10,8 +10,8 @@ def toadstool
 end
 
 def danger
-  warning = 
-  puts status
+  warning =  "It's Dangerous To Go Alone! Take This."
+  puts warning
 end
 
 

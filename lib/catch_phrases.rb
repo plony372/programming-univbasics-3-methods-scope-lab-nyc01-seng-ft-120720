@@ -9,6 +9,11 @@ def toadstool
   puts status
 end
 
+def danger
+  warning = 
+  puts status
+end
+
 
 
 
